@@ -8,7 +8,7 @@ I'm **Aakshith**, pursuing **data analyst and business intelligence opportunitie
 
 My portfolio focuses on **sales performance and logistics operations**, with reproducible analysis and interactive dashboards.
 
-[Sales dashboard](https://akshith597.github.io/meridian_sales_portfolio/) · [Logistics demo](https://logistics-control-tow.streamlit.app/) · [All repositories](https://github.com/Akshith597?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/akshiththotapally/) · [Sales dashboard](https://akshith597.github.io/meridian_sales_portfolio/) · [Logistics demo](https://logistics-control-tow.streamlit.app/) · [All repositories](https://github.com/Akshith597?tab=repositories)
 
 ## Featured projects
 
@@ -64,6 +64,6 @@ A sales investigation across **7,742 validated opportunities**, examining target
 
 **Clear questions. Trusted data. Useful decisions.**
 
-[Explore my projects](https://github.com/Akshith597?tab=repositories)
+[Connect on LinkedIn](https://www.linkedin.com/in/akshiththotapally/) · [Explore my projects](https://github.com/Akshith597?tab=repositories)
 
 </div>
